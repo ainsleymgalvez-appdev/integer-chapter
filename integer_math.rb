@@ -4,3 +4,8 @@
 # 
 # 4
 
+days_year = 7
+
+days_week = 7
+
+p days_year/days_week
